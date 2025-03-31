@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Live Forever Through Your Story.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **ETERIS Life** is an **AI-powered legacy storytelling and digital
+      preservation platform** that enables individuals to **immortalize their
+      stories, memories, and voices** for future generations. We believe that
+      **a life well-lived deserves to be remembered, shared, and celebrated**,
+      ensuring that personal histories transcend time.
     actions:
       - label: Get started
         altText: ''
