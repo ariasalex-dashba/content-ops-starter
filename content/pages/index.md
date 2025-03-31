@@ -13,7 +13,7 @@ sections:
       preservation platform** that enables individuals to **immortalize their
       stories, memories, and voices** for future generations. We believe that
       **a life well-lived deserves to be remembered, shared, and celebrated**,
-      ensuring that personal histories transcend time.
+      ensuring that personal stories transcend time.
     actions:
       - label: Get started
         altText: ''
