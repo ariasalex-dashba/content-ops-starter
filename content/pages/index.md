@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: eteris life
+      label: eteris Life
       color: text-primary
       type: Badge
     elementId: ''
